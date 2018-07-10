@@ -1,0 +1,4 @@
+peter_zhukov_korablik_test:
+    resource: "@PeterZhukovKorablikTestBundle/Resources/config/routing.yml"
+    prefix:   /
+

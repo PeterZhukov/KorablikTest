@@ -1,0 +1,311 @@
+Reading ./composer.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/config.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/auth.json
+Loading config file ./composer.json
+Checked CA file C:\Users\zhukov_p\AppData\Local\Temp\ope3890.tmp: valid
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git branch --no-color --no-abbrev -v
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git describe --exact-match --tags
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git log --pretty="%H" -n1 HEAD
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): hg branch
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): fossil branch list
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): fossil tag list
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): svn info --xml
+Reading C:/Users/zhukov_p/AppData/Roaming/Composer/composer.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/config.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/auth.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/composer.json
+Loading config file C:\Users\zhukov_p\AppData\Roaming\Composer/auth.json
+Reading C:\Users\zhukov_p\AppData\Roaming\Composer/auth.json
+Reading D:\Non Projects\symfony.programmist-zhukov.ru/vendor/composer/installed.json
+Reading C:/Users/zhukov_p/AppData/Roaming/Composer/vendor/composer/installed.json
+Loading plugin Fxp\Composer\AssetPlugin\FxpAssetPlugin
+Running 1.6.5 (2018-05-04 11:44:59) with PHP 7.0.15 on Windows NT / 6.1
+Downloading https://packagist.org/packages.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/packages.json into cache
+Downloading http://packagist.org/p/provider-2013%24b0e15acd0ffd37b509d57decba8908caa5c7a9f35762547fcdea259f04e53a20.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2013.json into cache
+Downloading http://packagist.org/p/provider-2014%24e233e1e0e56936763e1dafe54c0b85a4eb1188173fef4554a0e10fcbae0321fb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2014.json into cache
+Downloading http://packagist.org/p/provider-2015%24c527fdcaa7f46d50a6c613a1093b332ab3105fa2d956acbc38cb362b1e9a030c.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2015.json into cache
+Downloading http://packagist.org/p/provider-2016%24a63cd4ecea754dcbea0c702e9a81a7fbcdb2f5723c2e7a6dbec2b5c746adf703.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2016.json into cache
+Downloading http://packagist.org/p/provider-2017%2421c5b7600cdd465b4b8b3c368be583c2431363b5ca75ced99f146441b8b99e6d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2017.json into cache
+Downloading http://packagist.org/p/provider-2017-10%247b9befecde3160d943dd37e4e9aecca2e68f1e8c53aadc24f67c59cf9a7989c4.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2017-10.json into cache
+Downloading http://packagist.org/p/provider-2018-01%240f86eefb5485e72cb9043f40b8a489c195ab54f9e05274cb3286c2fa2ec2aa24.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-01.json into cache
+Downloading http://packagist.org/p/provider-2018-04%240bb73dec35c88be9962c76c7b341058efcca64f507f059fa5e3da45c495ad7a8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-04.json into cache
+Downloading http://packagist.org/p/provider-2018-07%24089807df500115052326bdd77d1c5a06adf2dce4f726b5698d0c54ec9da8a75a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-07.json into cache
+Downloading http://packagist.org/p/provider-archived%24216205c00b7bfcb4d972a5a24f4aa8124a2f92a8135a4a00b794dbc35e4a56e6.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-archived.json into cache
+Downloading http://packagist.org/p/provider-latest%2421c850c31eda6ceefdc56d3bbf6c184ff9576878387d1c541c20d527abff2e04.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-latest.json into cache
+Downloading http://packagist.org/p/guzzle/guzzle%24220b9203aa37766612ea0093067f1e362ee55e32a0718c5923fcd5c8d39ba575.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$guzzle.json into cache
+./composer.json has been updated
+Reading ./composer.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/config.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/auth.json
+Loading config file ./composer.json
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git branch --no-color --no-abbrev -v
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git describe --exact-match --tags
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): git log --pretty="%H" -n1 HEAD
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): hg branch
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): fossil branch list
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): fossil tag list
+Executing command (D:\Non Projects\symfony.programmist-zhukov.ru): svn info --xml
+Reading C:/Users/zhukov_p/AppData/Roaming/Composer/composer.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/config.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/auth.json
+Loading config file C:/Users/zhukov_p/AppData/Roaming/Composer/composer.json
+Loading config file C:\Users\zhukov_p\AppData\Roaming\Composer/auth.json
+Reading C:\Users\zhukov_p\AppData\Roaming\Composer/auth.json
+Reading D:\Non Projects\symfony.programmist-zhukov.ru/vendor/composer/installed.json
+Reading C:/Users/zhukov_p/AppData/Roaming/Composer/vendor/composer/installed.json
+Loading plugin Fxp\Composer\AssetPlugin\FxpAssetPlugin_composer_tmp0
+Reading ./composer.lock
+Loading composer repositories with package information
+Downloading https://packagist.org/packages.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/packages.json into cache
+Updating dependencies (including require-dev)
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2013.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2014.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2015.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2016.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2017.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2017-10.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-01.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-04.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-2018-07.json from cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-archived.json from cache
+Downloading http://packagist.org/p/provider-latest%24f65d564416fd960fb881cbce405f6b5ea6c8a1842fe8a1924fb5070560a18f11.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/p-provider-latest.json into cache
+Downloading http://packagist.org/p/composer/ca-bundle%24379e0948838c1c982777738ba0c97f73daa88e54be6c1b59040505cf67ab67ee.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-composer$ca-bundle.json into cache
+Downloading http://packagist.org/p/doctrine/lexer%24f7721679098ea3fc091ce9428cf151432ecf2829eca45dedc1d22dd6de258b5e.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$lexer.json into cache
+Downloading http://packagist.org/p/doctrine/annotations%245e3ce3368c7b87ca5ca3983135e855c04df9695547bff72bba10d56b66a28235.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$annotations.json into cache
+Downloading http://packagist.org/p/doctrine/cache%243b65ca7fe23a334c136bda1cc3401108cec77b1d3aa0af3cfcdb0183801cb306.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$cache.json into cache
+Downloading http://packagist.org/p/doctrine/collections%2475cf131ad89cbc6687f8a359c4840331cddcb56655a9cb2607d01a6a22ce1971.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$collections.json into cache
+Downloading http://packagist.org/p/doctrine/inflector%24ac35391aee770d1b420be26132accad8eb81a377b0a405ce24a4520bdd2da69f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$inflector.json into cache
+Downloading http://packagist.org/p/doctrine/common%24d2a576d522f91a9f06cf220ff7a37e4a3ec9fb788c89007d4c7546abdc5ee430.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$common.json into cache
+Downloading http://packagist.org/p/doctrine/dbal%24305a87966f89b5877ab7d7bb68eb18a5501360c0e32fd01a8ac5a1d8a583b0ae.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$dbal.json into cache
+Downloading http://packagist.org/p/doctrine/doctrine-cache-bundle%24e89bd1f9f9b41848c8cbbbab194d6012d6c4f3921c860dae0fc9a4f5c1489fc2.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$doctrine-cache-bundle.json into cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-jdorn$sql-formatter.json from cache
+Downloading http://packagist.org/p/symfony/console%2446ab419331a48f1f26701eb6bfcb6c842cdd07b279c5413a8e2ab2bc49919d12.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$console.json into cache
+Downloading http://packagist.org/p/symfony/dependency-injection%2439da9252c28d44e9a8d9be4d28d15394c4e14889a55fdc11dd44576d6e704c8b.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$dependency-injection.json into cache
+Downloading http://packagist.org/p/symfony/doctrine-bridge%2412ddc8b203046d27b295e884d75b76e41125612661b68cff43c9eac3874d20ca.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$doctrine-bridge.json into cache
+Downloading http://packagist.org/p/symfony/framework-bundle%24492f4cf86a23733fd9da4014a392fbb3d074aedfa4a28665a62ec6bdae7ac326.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$framework-bundle.json into cache
+Downloading http://packagist.org/p/doctrine/doctrine-bundle%24435bc5a61a18b883362a9b7f5c95fa6492991ccf026f164ba936cb0063708f8d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$doctrine-bundle.json into cache
+Downloading http://packagist.org/p/symfony/security-acl%24058ecbcfdb7f5b2aab269338d51198150924c12748b1dfb9255f1677c825bfe1.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-acl.json into cache
+Downloading http://packagist.org/p/symfony/debug%2439a15d39b1b42e4c03996a00e238e20402a17d035dab08a1ad369652f6793d06.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$debug.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-mbstring%24167067af02037039d755d90c192fe8140e0074eeae1b87b133ac05533b592355.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-mbstring.json into cache
+Downloading http://packagist.org/p/psr/container%246c6d38487bfb33e3c1f670fc2d36e97b7f623a5353f3fc45221fa1a60614a98d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-psr$container.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-ctype%24d68ebec32e2e1b57549df5805c7e8182ca70d853bc72e962c0f7d93c7e74f2f4.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-ctype.json into cache
+Downloading http://packagist.org/p/symfony/asset%245537412ce65b8585b8171b2083cec1b71d9f8b8b8eee1b6da9d5072894d58eb8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$asset.json into cache
+Downloading http://packagist.org/p/symfony/config%24228f6ea5591675e0de78faa31f9e5a6da5b781a0966a3e79838027b884dc7ab8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$config.json into cache
+Downloading http://packagist.org/p/symfony/event-dispatcher%24306653487ae8a1e6bf9fd80d419b735f42eeca3f966c10bd1c6a40a4191bf1d6.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$event-dispatcher.json into cache
+Downloading http://packagist.org/p/symfony/filesystem%24cc10210a3214aa0c08d4430d546ccb8073375198d2f067196b6670e48333310a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$filesystem.json into cache
+Downloading http://packagist.org/p/symfony/finder%24bb3523d5a51315843fa143aaae5065ca377a427ad81a0671846313772aa15179.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$finder.json into cache
+Downloading http://packagist.org/p/symfony/http-foundation%240f14aa157dcafadf7b0524d9b14959b52b4dae7274ee30c4f3981b517ba8f5b3.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$http-foundation.json into cache
+Downloading http://packagist.org/p/symfony/http-kernel%243d6845fd2765506e96ec6cfb04a8f4de7c23edce65f06f79996b75954b01863d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$http-kernel.json into cache
+Downloading http://packagist.org/p/symfony/routing%24b36563bb231d70899f74ec35138e5e7fd2037cbb2f723ce2f69ca3cca26ead7e.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$routing.json into cache
+Downloading http://packagist.org/p/symfony/security-core%24f1cd832dff0a108c6fc5717154e0c9bc78634b5c3cd7ce4a2027ef184acacd88.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-core.json into cache
+Downloading http://packagist.org/p/symfony/security-csrf%24e008d915c8fddb38a59e0e05b7444cbe5aa23f3cdd1bf15e56c826b065566024.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-csrf.json into cache
+Downloading http://packagist.org/p/symfony/stopwatch%24f6137b958997a330ab42e4cfeee9fca856d4081cf9d223c72db279bfd32fccd5.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$stopwatch.json into cache
+Downloading http://packagist.org/p/symfony/templating%244f19f1172f47cfff15811d1754f137e2e5da7a4825b39e03dd0cc443b13a72b5.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$templating.json into cache
+Downloading http://packagist.org/p/symfony/translation%24fe23da8530e9f683e935c1c0633264adb65253bf4c11dce6c76ec4d93f15b83a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$translation.json into cache
+Downloading http://packagist.org/p/symfony/class-loader%2499ae825e8fd8670a8c55bb3a1c6d632ca99fea9eb412614586de3f6ce46e0344.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$class-loader.json into cache
+Downloading http://packagist.org/p/symfony/cache%24b242379af8070bf86a9f399491c951e95397444b84a2fd9edb3827796ac665bb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$cache.json into cache
+Downloading http://packagist.org/p/psr/log%24b994ef20a239573f4b58e818bcd8ff441327bc55c27069932a8589d6e6d1908f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-psr$log.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-php54%24e537119d4c2f4f102be6d8382da6fa910afacc46d136156e199ef5a5a2f6b0e8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-php54.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-php55%240b840f1cc572cc5cf1b7d738b393984bf836db4963c752db1bc4aab4d30d77b6.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-php55.json into cache
+Downloading http://packagist.org/p/paragonie/random_compat%24b30527bfd8ce2d6dd122e5b56e209333a1acc831a03a82a4db0e843d7086f6a2.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-paragonie$random-compat.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-php56%244bae3ddc9a72f5eea5d8cf8d5a73144909a55f75d83fbf09319839b3bd298f39.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-php56.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-php70%245df8002142511522553b43cd00340c7de1a38f355421e0b0fbbdcfbdd75fc46f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-php70.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-util%2440797a1c6bbfbe902ee7761e6995127006b2cc89873a66ba657c168f9c4f0f01.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-util.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-apcu%2420dc29e39865c7eb341b7208f4d580472a838b70685321412962077b670a4254.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-apcu.json into cache
+Downloading http://packagist.org/p/psr/cache%2480369fb71018197d2a2b03a70d2698f3ce9ae575978baf12983a77b99b819a86.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-psr$cache.json into cache
+Downloading http://packagist.org/p/psr/simple-cache%24a0e6278a76dae422f97f86cc96ba81238cb49a5db9c4b91fbe1a99776da32bd9.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-psr$simple-cache.json into cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-ircmaxell$password-compat.json from cache
+Downloading http://packagist.org/p/doctrine/instantiator%240ee627ce4613ed4211c5a945dbdeebe3e0b85dd6ecefa27a4b50205814a2d523.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$instantiator.json into cache
+Downloading http://packagist.org/p/doctrine/orm%24e7ae52427c85c9db2bdb886488484c0d21d1ad374c494092ac7e939ca5663fd5.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-doctrine$orm.json into cache
+Downloading http://packagist.org/p/psr/link%24f3f11d7387ea593b61c3a2711413ee10583fbde39b6d3bad60d81988430cbe75.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-psr$link.json into cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-fig$link-util.json from cache
+Downloading http://packagist.org/p/symfony/yaml%241d653fa4bdfaad37c50348cc2a4139249a4d3aedad7debeaa4bb3e17d8ac8692.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$yaml.json into cache
+Downloading http://packagist.org/p/incenteev/composer-parameter-handler%24da314a60643a8126b7d1c8c3bd3c6e5b95fa8104a3eee902f8f80a76b90c6e49.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-incenteev$composer-parameter-handler.json into cache
+Downloading http://packagist.org/p/monolog/monolog%24a622d227fb3d79e6394d7ed2c5f317b2b796614805a7b7a0df5ad797340153b2.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-monolog$monolog.json into cache
+Downloading http://packagist.org/p/sensiolabs/security-checker%24dd2ee25132b9dfb0d9e130d48caca123bbbc701407a2d8ea6b3b0d8929342740.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-sensiolabs$security-checker.json into cache
+Downloading http://packagist.org/p/symfony/process%24207acc9383daab30243142ddac9c51d25821d1b73b91fc95a1ff7a80e7f1cba1.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$process.json into cache
+Downloading http://packagist.org/p/sensio/distribution-bundle%24b64d93f132d2cbfde07dc3d7869d426e5a28412f4dded30b86a29b041bd4148f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-sensio$distribution-bundle.json into cache
+Downloading http://packagist.org/p/sensio/framework-extra-bundle%240a873ac458f66d72b8d950577fc80e4d2e4e4c511ea18241580a136c9ec42b31.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-sensio$framework-extra-bundle.json into cache
+Downloading http://packagist.org/p/twig/twig%246cfd359c6b7f095aa266448c69202bf3a337b5246333a196fb81cf8678eaf445.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-twig$twig.json into cache
+Downloading http://packagist.org/p/sensio/generator-bundle%24465111ab363f51de3647d9f6c9276430d861ef7d279558912b6be9c03d5b3bf8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-sensio$generator-bundle.json into cache
+Downloading http://packagist.org/p/swiftmailer/swiftmailer%248733843444e2bee7cec8f5715eb9eae186d8b583d5452a5f06d9f9fcfead2b70.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-swiftmailer$swiftmailer.json into cache
+Downloading http://packagist.org/p/symfony/monolog-bridge%240e989a35c3de76204581f2b0cadf4b90df80f3effe743a4b9ace5ef0d6dff741.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$monolog-bridge.json into cache
+Downloading http://packagist.org/p/symfony/monolog-bundle%2422f1a629aab49012d22a055333ec3b7a0b0e603ff33eda770bfc8b405831032d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$monolog-bundle.json into cache
+Downloading http://packagist.org/p/symfony/phpunit-bridge%24dec6363a9be14c9e98078c56332063ae0a3ce4d96f469749964b0b249a336942.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$phpunit-bridge.json into cache
+Downloading http://packagist.org/p/symfony/intl%247854328eda6e00d06382f972dc17cce5f4902dcb2f3b0767184755bdbf32e0cf.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$intl.json into cache
+Downloading http://packagist.org/p/symfony/polyfill-intl-icu%246f8a4774298d194c035d89d9b2d1aba34ceb50d8e3a95ffd24908895de5cb8ed.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$polyfill-intl-icu.json into cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$icu.json from cache
+Downloading http://packagist.org/p/symfony/swiftmailer-bundle%24e253f40033c79299600af4fa5e80714d5e2680704c10b1c2d8374983602eb1ec.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$swiftmailer-bundle.json into cache
+Downloading http://packagist.org/p/symfony/symfony%24407a5b9358d62f4dec84d2157187bcda8615cb0fe2bdcfb646446bc2fcd48af4.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$symfony.json into cache
+Downloading http://packagist.org/p/symfony/security%243a00362096209780dc3b299d50e4c1ce28ab6dc54542b824b6f45b931cd64bdb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security.json into cache
+Downloading http://packagist.org/p/symfony/property-access%248e1aea18d4998303ca757898fc8fb7851b8c5f0222aa932d365abe2e2e4efbfe.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$property-access.json into cache
+Reading C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$guzzle.json from cache
+Downloading http://packagist.org/p/phpdocumentor/reflection-docblock%24418ea3da665cec22e4309cc2d44756aa0513605220e0f9a6557f34b8cde7bec0.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-phpdocumentor$reflection-docblock.json into cache
+Downloading http://packagist.org/p/phpdocumentor/type-resolver%247fd8261d17a7b85d0a430dec3eaf53c5193a2afbd3099bc4e0d8a2d0f2291f49.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-phpdocumentor$type-resolver.json into cache
+Downloading http://packagist.org/p/phpunit/phpunit%242912c12daa5b814aeb49af92b931c870dac70d4870c1c503eb7dde5ae52e49ab.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-phpunit$phpunit.json into cache
+Downloading http://packagist.org/p/symfony/browser-kit%24fe0eb9f5bf03151dedd7d2f8dea2d373ffd991741f5157bd3cd8402749228d3d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$browser-kit.json into cache
+Downloading http://packagist.org/p/symfony/css-selector%244f9503fa9006177802672cfe42bd404aa0ead78cabb009656544c3c5bea6415a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$css-selector.json into cache
+Downloading http://packagist.org/p/symfony/debug-bundle%2461e16c2dbf07b12a9da1c072c469d3ca7723488cbecfe2589f8c9a8e6c8894ae.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$debug-bundle.json into cache
+Downloading http://packagist.org/p/symfony/dom-crawler%24d27abdd087a6927de0f197209d4bf0ff50912a11562bffc9766cb7208195084d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$dom-crawler.json into cache
+Downloading http://packagist.org/p/symfony/dotenv%246158f96d0da276e44c1828105144787e21bc65f57afafaaf665eea85324773eb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$dotenv.json into cache
+Downloading http://packagist.org/p/symfony/expression-language%242893b44c088f1177d633ba68576283b7d460c7549ec8bf7d09ccb8b10915d637.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$expression-language.json into cache
+Downloading http://packagist.org/p/symfony/form%24c195590200367fdbdfef4f6305c85089d2ce2f4149aea883763add0015ed3873.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$form.json into cache
+Downloading http://packagist.org/p/symfony/inflector%24c47b910b22e26f6ee2ea2120e75d69984e0fc745886f7e3171aa43eadbd475cb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$inflector.json into cache
+Downloading http://packagist.org/p/symfony/ldap%2416bfe508977c4d0ae2b5f7828b430a14831a41288b48990eadde11b9b5e66649.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$ldap.json into cache
+Downloading http://packagist.org/p/symfony/lock%24963d87da8aeb0856551f2cf18d8abb2e9054eb9dff9a49b3d6daf65ffe08710f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$lock.json into cache
+Downloading http://packagist.org/p/symfony/options-resolver%243d193fe4d751cbd54d04a1af28646d169e7761e8422541fc6e5f5e48ab43d729.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$options-resolver.json into cache
+Downloading http://packagist.org/p/symfony/property-info%24f04966e697f178fd5a7d3e513d2b00d9405b09f5c7b82fb6023965a6041391fb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$property-info.json into cache
+Downloading http://packagist.org/p/symfony/proxy-manager-bridge%247c85ec7f88cb244904dc50f1218c29eb71d0bffb7e6f1ad581b260cc04b8253a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$proxy-manager-bridge.json into cache
+Downloading http://packagist.org/p/symfony/security-guard%2493bd12712304d20f89172599f97831c3cac23b3a4797c1c0ce5c92aca68ae2f2.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-guard.json into cache
+Downloading http://packagist.org/p/symfony/security-http%2425ee69c5232f28f6b009582cf293861bbe59964598000ac33202c60dfccade6a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-http.json into cache
+Downloading http://packagist.org/p/symfony/security-bundle%24a48c5d401dc733a0d6cae4766328764d22c08746ea2e0b28895b7b521e782fa8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$security-bundle.json into cache
+Downloading http://packagist.org/p/symfony/serializer%249af6655e2da3a3fe187bbfc1341295a2c878df946d97077a185584021f61b4cb.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$serializer.json into cache
+Downloading http://packagist.org/p/symfony/twig-bridge%24afcf4ecd73edb88b9afdb67f50d32564904dd83b9a5435774ed8a9f4c518c19a.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$twig-bridge.json into cache
+Downloading http://packagist.org/p/symfony/twig-bundle%24a75bc392b05e5555fad902c192dee1f90cca974f26f1a0fae1c790cba6d032d8.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$twig-bundle.json into cache
+Downloading http://packagist.org/p/symfony/validator%244eb97106ac93f7421bdcba5c93136a43961b8538400b57db649e57bd53eb40c6.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$validator.json into cache
+Downloading http://packagist.org/p/symfony/var-dumper%247bf383851155595f41beeedc2e481f606022b259e373787b055e89a0b8edf3ce.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$var-dumper.json into cache
+Downloading http://packagist.org/p/symfony/web-link%24bcfcfc8f4b1ae8f3155375babfef312045cfa12fd74db2e8c0dc2ad7e0749733.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$web-link.json into cache
+Downloading http://packagist.org/p/symfony/web-profiler-bundle%2444d188311f6598f0ea967354e833f6331f88a71548253258be78414fd6be5690.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$web-profiler-bundle.json into cache
+Downloading http://packagist.org/p/symfony/web-server-bundle%24904a47acd64dcdf2b745a6049ca082a122e17f9063d8af6f748ee44e6c0e17b6.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$web-server-bundle.json into cache
+Downloading http://packagist.org/p/symfony/workflow%24c7b42404c015d48043aa5dad557d861ce7b7c3102321012a7e8feea2065a5b2e.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-symfony$workflow.json into cache
+Downloading http://packagist.org/p/guzzle/common%249d133f8fbefd160b35d5e88aab1064fb9c1a79c96c4b5cfc3cab67d025888173.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$common.json into cache
+Downloading http://packagist.org/p/guzzle/http%24ce424ceeb63d1bd21feacf61e4f21a6b9aa54e040906afafec7b458662300f13.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$http.json into cache
+Downloading http://packagist.org/p/guzzle/parser%244c7422484b545ddffb671727f1b61f0d9caa70cb3aae89866c0b4751fe1d0b8c.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$parser.json into cache
+Downloading http://packagist.org/p/guzzle/batch%24acfa07e69c17207d8faf2b536b6e2cc1c8e8457d38227edf387ab57b14b2c8fd.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$batch.json into cache
+Downloading http://packagist.org/p/guzzle/cache%2424bc986ce69414c580f22e7ee481066352bb649777b01de27a790aabe9a3e862.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$cache.json into cache
+Downloading http://packagist.org/p/guzzle/inflection%2489d6c2ca52f986cf938396ba4fdd7a64733e2ae0aaa3125dcd8959cdacaaf608.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$inflection.json into cache
+Downloading http://packagist.org/p/guzzle/iterator%2452e1fd654769ed05e4afc96b6d1b222fed49adf6624b0ff6448a47d05f27221d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$iterator.json into cache
+Downloading http://packagist.org/p/guzzle/log%249d87b0eb25237efd38a7f43381ed154a8a74c82938a550399b347712b9cadf7d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$log.json into cache
+Downloading http://packagist.org/p/guzzle/plugin%244d30f6116062d2aa340cbcc4cbfefe15f783c01d8cc6a472c81fbbe3d26f8919.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-async%24318e569471520bc17231bc34b2fd56804979834f70b66cf6bb893d0cc335f28d.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-async.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-backoff%24b0faba4427437b0ffc945bb64440c9b2ea439de8636f3b743747f888ef88a087.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-backoff.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-cache%242ad37976c20869695074272cc5672e63492fa5eff230e7c44338d29b6af039ca.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-cache.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-cookie%24057b84fb500c2b3cad621ddf158a4920d233f2c1b937541e130b53644960aea4.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-cookie.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-curlauth%24fdd4c1bdabc219bb92e979953906d11a010f74399224cb1dfec42a1f638c6dcf.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-curlauth.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-history%24df33e2f4869d8893ee4e55d9d21a8658839706b64ffe4d74569252dda08c4d3f.json
+Writing C:/Users/zhukov_p/AppData/Local/Composer/repo/https---packagist.org/provider-guzzle$plugin-history.json into cache
+Downloading http://packagist.org/p/guzzle/plugin-log%241c447f7c440b3f220f24faa80a0b622771cf6214e4aca7805f078e3f3f5ec26e.json
+^C^C

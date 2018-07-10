@@ -1,0 +1,15 @@
+peter_zhukov_korablik_test_products:
+    path:     /test_zhukov/products
+    defaults: { _controller: PeterZhukovKorablikTestBundle:Api:products }
+
+peter_zhukov_korablik_test_products_xml:
+    path:     /test_zhukov/products_xml
+    defaults: { _controller: PeterZhukovKorablikTestBundle:Api:productsXml }
+
+peter_zhukov_korablik_test_products_error:
+    path:     /test_zhukov/products_error
+    defaults: { _controller: PeterZhukovKorablikTestBundle:Api:productsError }
+
+peter_zhukov_korablik_test_products_xml_error:
+    path:     /test_zhukov/products_xml_error
+    defaults: { _controller: PeterZhukovKorablikTestBundle:Api:productsXmlError }

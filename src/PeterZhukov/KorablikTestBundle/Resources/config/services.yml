@@ -1,0 +1,32 @@
+services:
+    PeterZhukov\KorablikTestBundle\Command\GetProductsCommand:
+      arguments:
+        - ~
+        - '@PeterZhukov\KorablikTestBundle\Services\ApiDownloaderService'
+      tags:
+        - { name: 'console.command' }
+      autowire: true
+      public: true
+
+    PeterZhukov\KorablikTestBundle\Services\ApiDownloaderService:
+      arguments:
+        - ~
+        - '@GuzzleHttp\ClientInterface'
+      autowire: true
+      public: true
+
+    PeterZhukov\KorablikTestBundle\Services\JsonResponseParser:
+      autowire: true
+      public: true
+
+    PeterZhukov\KorablikTestBundle\Services\XmlResponseParser:
+      autowire: true
+      public: true
+
+    GuzzleHttp\Client:
+      autowire: true
+      public: true
+
+    PeterZhukov\KorablikTestBundle\Services\ResponseParserInterface: '@PeterZhukov\KorablikTestBundle\Services\JsonResponseParser'
+    PeterZhukov\KorablikTestBundle\Services\ApiDownloaderInterface: '@PeterZhukov\KorablikTestBundle\Services\ApiDownloaderService'
+    GuzzleHttp\ClientInterface: '@GuzzleHttp\Client'
